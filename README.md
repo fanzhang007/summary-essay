@@ -8,6 +8,8 @@
 
 [帮助](#help)
 
+[不错的文章](#article)
+
 ##### <span id="blog">好的博客</span>
 
 - [架构演变的理解](http://www.cnblogs.com/zyrblog/p/9085144.html)
@@ -56,4 +58,7 @@ gitbook serve
 ##### <span id="help">帮助</span>
 
 - [gitbook使用方法](http://www.chengweiyang.cn/gitbook/introduction/README.html)
+
+##### <span id="article">不错的文章</span>
+- [React 组件设计和分解思考](https://mp.weixin.qq.com/s?__biz=MzIzNjE5NzAyMA==&mid=2649880026&idx=1&sn=5057d4d9c3eb3d48156e2609c25d820f&chksm=f0ded029c7a9593f49566d1fcad343d886580762f8aff41b60161ba78f81bc8ec0ba48716539&mpshare=1&scene=1&srcid=0705OnfjatRhOwKOdLxD9fKO&pass_ticket=DKQmgH%2FHy3VBsl0meg3Svc9ja9LnE6eBeqcm2Aj0a%2BUBVQoWQnHouaYathiOQ0SK#rd)
 
